@@ -20,6 +20,9 @@ This code uses 2 APIs to pinpoint the exact location of the IP address you're se
 ## Linode Distro Upgrade - dist_upgrade_linode.sh
 This Script makes the distro upgrade safely. It integrates Linode's API by taking a Snapshot before starting the upgrade and, if it doesn't work, it returns to the previous configuration through the Snapshot.
 
+## MySQL and MariaDB Install and Remove - mysql_install_remove.sh
+Program performs the installation and complete removal of the mysql adn mariadb version informed in the case.
+
 #### More code will come. Stay tuned for updates.
 
 #
